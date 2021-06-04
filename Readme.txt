@@ -1,4 +1,9 @@
+DBMS Sem 6 Assignment. Done with Vinayak J.
+This System stores Students, Subject and Exams along with any other required details.
+It helps to improve the information management for the same.
 
+
+References:
 https://www.sqlitetutorial.net/sqlite-python/creating-database/
 https://docs.python.org/3/library/sqlite3.html
 
